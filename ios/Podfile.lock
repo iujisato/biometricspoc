@@ -1,0 +1,16 @@
+PODS:
+  - PassiveFaceLivenessNoSentryStatic (3.3.0)
+
+DEPENDENCIES:
+  - PassiveFaceLivenessNoSentryStatic (~> 3.3.0)
+
+SPEC REPOS:
+  https://github.com/combateafraude/iOS.git:
+    - PassiveFaceLivenessNoSentryStatic
+
+SPEC CHECKSUMS:
+  PassiveFaceLivenessNoSentryStatic: d2e7399d2ba692e682a9f3dfbd033af623b8565e
+
+PODFILE CHECKSUM: 62422329722ecbe846c6f2e4cab33e7c280e1fdc
+
+COCOAPODS: 1.10.1
